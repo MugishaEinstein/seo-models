@@ -1,5 +1,6 @@
 joblib
 matplotlib
 pandas
+statsmodels
 python_dateutil
 streamlit
